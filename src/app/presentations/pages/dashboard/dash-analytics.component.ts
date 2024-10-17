@@ -248,19 +248,19 @@ export default class DashAnalyticsComponent {
   cards = [
     {
       background: 'bg-c-blue',
-      title: 'Collaborator',
+      title: 'Collaborateur',
       icon: 'icon-user',
       number: '25',
     },
     {
       background: 'bg-c-green',
-      title: 'Projects',
+      title: 'Projets',
       icon: 'icon-briefcase',
       number: '16',
     },
     {
       background: 'bg-c-yellow',
-      title: 'Diary',
+      title: 'Agenda',
       icon: 'icon-calendar',
       number: '12',
     },

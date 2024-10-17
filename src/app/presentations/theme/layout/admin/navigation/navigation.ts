@@ -27,7 +27,7 @@ export const NavigationItems: NavigationItem[] = [
     children: [
       {
         id: 'dashboard',
-        title: 'Dashboard',
+        title: 'tableau de bord',
         type: 'item',
         url: '/dashboard',
         icon: 'feather icon-home'
@@ -71,7 +71,7 @@ export const NavigationItems: NavigationItem[] = [
             id: 'collabateurs',
             title: 'Mes collabateurs',
             type: 'item',
-            url: '/collaborateurs',
+            url: '/user-collaborator',
             icon: 'feather icon-user'
           },
           {
